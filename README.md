@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9300D3&height=200&section=header&text=Binary%20Tree&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Java%20|%20Data%20Structure%20|%20Text%20Analysis&descAlignY=60&descSize=18">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=header&text=Binary%20Tree&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Java%20|%20Data%20Structure%20|%20Text%20Analysis&descAlignY=60&descSize=18">
 
 <p align="center">
   <i>🌳 A binary tree implementation for text analysis and word frequency counting.</i>
@@ -112,6 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9300D3&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=footer"/>
 
 </div>
