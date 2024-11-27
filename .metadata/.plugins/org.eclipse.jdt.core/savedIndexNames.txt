@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\3º Semestre\Estrutura de Dados\Parte 1 Proj MR\ProjArvoreBinaria\.metadata\.plugins\org.eclipse.jdt.core
+2625681673.index
+1067094681.index
+1865797976.index
